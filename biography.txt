@@ -1,8 +1,16 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+  Clive Sombe
 2. Why are you interested in Data Science?
+  I've decided to drive my career primarily toward data analysis and while staying ahead of the curve in the ever advancing information age.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+  I have done SAS, Java in my undergraduate statistic classes. My job does not require me to use programming.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+  I prepare a lot of ad-hoc reports from various datasets in addition to the standard reports we produce in my job. 
+	Statistic courses I have taken include:Probability and Statistics, Computer Applications of Statistics, and Statistical Methods at two levels.  
 5.  Do you have other experience with R or Python?
+  I have a little expirience with R from college.
 6.  What do you hope to learn in this class?
+  I hope to establish a firm base in programming in both R and Python to use in my later courses and at work.
 7.  Is there anything else you would like to share with us?
+  I am teaching myself SQL and Tableau to help in my data analysis, reporting, visualization and presentation in my job that heavily uses and depends on the highly limited Excel.
